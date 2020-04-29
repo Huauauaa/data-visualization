@@ -1,0 +1,12 @@
+- [D3.js](https://d3js.org/)
+- [Recharts](https://recharts.org/en-US/)
+- [Victory](https://formidable.com/open-source/victory/)
+- [React-vis](https://uber.github.io/react-vis/)
+- [ApexCharts](https://apexcharts.com/)
+- [Chart.js](https://www.chartjs.org/)
+- [Echarts](https://echarts.apache.org/zh/index.html)
+- [Frappe Charts](https://frappe.io/charts)
+- [Nivo](https://nivo.rocks/)
+- [Google Charts](https://developers.google.com/chart)
+
+[more](https://segmentfault.com/a/1190000018646425)
